@@ -11,8 +11,3 @@ I’m a full stack developer that loves everything about coding.
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VSCode`
-
-## 💬 Contact
-
-- E-mail: hvk.rodrigues@gmail.com
-- Linkedin: www.linkedin.com/in/hvk-rodrigues
