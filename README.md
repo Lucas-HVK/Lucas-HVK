@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Lucas Rodrigues! 
-
-
-I’m a full stack developer that loves everything about coding.
-
 ## 🛠️ Current stack
 
 - Main language: `JavaScript`
